@@ -1,4 +1,4 @@
-# 🧰 MCP Jira Server Setup Guide (macOS)
+# 🧰 MCP Jira Server and MCP Inspector Setup Guide (macOS)
 
 ## 🎯 Goal
 
